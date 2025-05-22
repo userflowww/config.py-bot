@@ -1,2 +1,1 @@
-# config.py
-TOKEN = '7872126027:AAEYuF4uSn-PTUdUpbYrvwV1MOSkUZdd6n0'
+
